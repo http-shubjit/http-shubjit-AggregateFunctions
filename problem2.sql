@@ -1,1 +1,1 @@
-select COUNT(*) from employee where last_name ='Smith'
+select COUNT(*) from employee where last_name='Smith'
